@@ -172,4 +172,10 @@
     </snapshotRepository>
 </distributionManagement>
 	
+	<parent>
+    <groupId>org.jenkins-ci.plugins</groupId>
+    <artifactId>plugin</artifactId>
+    <version>2.2</version>
+</parent>
+	
 </project>
